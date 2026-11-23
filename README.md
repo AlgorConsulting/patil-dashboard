@@ -1,6 +1,7 @@
 # Sleeper & Precast Plant Network: Production Dashboard (Sample)
 
 Live: https://algorconsulting.github.io/precast-operations/
+Book a call: https://calendar.app.google/xiyrXcRKc4dQfyF88
 Demo video (1 min): https://algorconsulting.github.io/precast-operations/demo/
 
 A representational sample built by ALGOR Consulting Group (https://www.algor-consulting.com/). All production, quality, dispatch and inventory figures are synthetic and illustrative; no client data is used.
